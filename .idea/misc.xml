@@ -2,7 +2,7 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.14 (learning-python)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.14 (leargning-python)" project-jdk-type="Python SDK">
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.14 (learning-python)" project-jdk-type="Python SDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
